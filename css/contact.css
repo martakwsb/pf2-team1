@@ -1,0 +1,15 @@
+#contact-form {
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding-left: 10px;
+	grid: 1;
+}
+#contact-container {
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 20px, 0;
+}
